@@ -1,0 +1,19 @@
+******day21sep2023******RectSession-1*****
+Q.What is React.
+Q.why we use react or why learn react.
+react install 
+cheak node.js node -v
+npm cmd  npm -vs
+
+React insatall
+  create one folder=> cmd open => npx create-react-app react-app => cd react-app
+  code . open vs code.
+
+there are teo types export named or defualt 
+rect dom 
+compont name start upper case
+ther are two ways to creat compontnet function and default 
+
+Q. What is COmponent 
+Q. what are The type of Component 
+comment karne ke liye (ctrl+?)

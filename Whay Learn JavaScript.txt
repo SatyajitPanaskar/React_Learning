@@ -1,0 +1,24 @@
+Whay Learn JavaScript 
+=> 1. used Everywhere
+      --> by Knowing only javascript, you are able to build an entire web application from the backend to the frontend. you can use single language for web aplication ,mobile appss, dekstop aplication , big data ,cloud apps and blockchain technology, it is used everywhere nowadays.
+
+=> 2. High Demand 
+      --> Due to the wide range of usage of this language javascript devlopers are high in demand from small stratup to the big comapanies. learning this language opens a lot of career opportunities , from remote freelancing to a lucrative full time position.
+
+=> 3. huge community 
+      --> you can easily get the solution or support in javascript program on google immediately. javascript community has millions of people around the word and the community offers ready to use solution for a different lavel of complexity in javscript programing.
+
+=> 4. Work in the browser  
+       --> For most the language, you need to do some kind of environment setup, download the compiler or some setup in the code editor. this is not the case with javScript. it is the default language of the internet. you can run and test your code in the browser without creating a special devlopment enivironment.
+
+=> 5. Easy to Learn 
+    ---> Javascript is comparatively easy to learn than other programming language. its beginner-friendly and anyone can start learning it without any previous experience in coding. the syntax of this languge is quite simple and logical. most of the syntax resembles the english language so this language is fairly easy to understand.
+
+
+JavaScript was first launched in May 23,1995.
+JavaScript was earlier used for designing pop-ups, changing of pictures ,etc.
+JavaScript can be used for creating Hybrid Apps.
+JS can also be used for creating UI for websites.
+JS can be used for website backend too.
+So finally I conclude saying JavaScript is a language which can be used for mobile development, website,etc.
+Highly recommended language to learn currently. 
