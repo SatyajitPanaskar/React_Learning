@@ -6,17 +6,20 @@ import HelloComponent from './component/Session6-ComponentInDetails/ClassComp';
 import FunctionalComp from './component/Session6-ComponentInDetails/FunctionalComp';
 import JSXComponent from './component/Day7/JSX';
 import Frament from './component/Day7/Frament';
+import Website from './component/Day8-routing/Website';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome To React </h1>
+      {/* <h1>Welcome To React </h1> */}
       {/* <Header />
       <MainContent/>*/}
        {/* <HelloComponent/> */}
       {/* <FunctionalComp/> */}
-      <JSXComponent /> 
+      {/* <JSXComponent />  */}
       {/* <Frament/> */}
+      <Website/>
     </div>
   );
 }

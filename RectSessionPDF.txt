@@ -17,3 +17,23 @@ ther are two ways to creat compontnet function and default
 Q. What is COmponent 
 Q. what are The type of Component 
 comment karne ke liye (ctrl+?)
+Q. What is Fragment? why We USe Fragment?
+Q.what is JSX?
+
+--------Day9-CompCommunication-----
+
+Q.What is Props?
+
+--------Day10-State------
+    State In Class Components 
+
+
+
+
+
+
+
+
+
+
+
