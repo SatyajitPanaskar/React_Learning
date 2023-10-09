@@ -1,7 +1,7 @@
 import React, {useState , useEffect} from 'react';
 import { Link } from 'react-scroll';
 import './Navbar.css'
-import Logo from '../../assets/logo/Screenshot .png';
+import Logo from '../../assets/logo/spBlack.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 
@@ -36,7 +36,7 @@ export default function Navbar() {
               <nav className="navbar" id='Navbar'>
                   <div className="navbar_brand">
                       <a href="/">
-                          <img src={Logo} alt="Logo" width="190px" />
+                          <img src={Logo} alt="Logo" width="160px" />
                       </a>
                   </div>
                   <div className="navbar_toggler" onClick={sidenavShow} >

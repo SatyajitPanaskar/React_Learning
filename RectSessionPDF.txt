@@ -31,6 +31,9 @@ Q.What is Props?
 imp Qwestion -
 1>
 
+------day12-ConditionalRendering.jsx
+Q> what is ConditionalRendering
+
 
 
 
