@@ -34,7 +34,21 @@ imp Qwestion -
 ------day12-ConditionalRendering.jsx
 Q> what is ConditionalRendering
 
+npm install axios
+https://fakestoreapi.com/products
+https://jsonplaceholder.typicode.com/comments
 
+pure component 
+Pure comp
+ReactJS has provided us a Pure Component. 
+
+If we extend a class with Pure Component, there is no need for shouldComponentUpdate() Lifecycle Method. 
+
+ReactJS Pure Component Class compares current state and props with new props and states to decide whether the React component should re-render itself or  Not.
+
+Pure Components ensures the higher performance of the Component and ultimately makes your application faster, 
+
+While in the case of Regular Component, it will always re-render either value of State and Props changes or not.
 
 
 

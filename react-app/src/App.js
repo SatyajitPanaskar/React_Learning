@@ -9,6 +9,11 @@ import Frament from './component/Day7/Frament';
 import Website from './component/Day8-routing/Website';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ConditionalRendering from './component/Day10-State/ConditionalRendering';
+import CardAssignment from './Assignment/CardAssignment';
+import Parent from './ComponentsCallBack/Parent';
+
+
+
 
 function App() {
   return (
@@ -20,8 +25,10 @@ function App() {
       {/* <FunctionalComp/> */}
       {/* <JSXComponent />  */}
       {/* <Frament/> */}
-      <Website />
-      <ConditionalRendering/>
+      {/* <Website /> */}
+      {/* <ConditionalRendering/> */}
+      {/* <CardAssignment/> */}
+      <Parent/>
     </div>
   );
 }

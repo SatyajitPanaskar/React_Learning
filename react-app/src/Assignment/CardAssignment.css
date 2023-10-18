@@ -1,0 +1,15 @@
+#btn_01{
+    background-color: yellow;
+   
+}
+#btn_02{
+    background-color: orange;
+    margin-left: 15px;
+}
+.imgAll{
+    width: auto;
+    height: 400px;
+    border-bottom: 2px solid black;
+    overflow: hidden;
+    
+}
